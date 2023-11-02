@@ -1,0 +1,1 @@
+Add the images of individuals here. This will act as visual data for the system to refer to and validate when scanning individuals in real-time. Feel free to add multiple images of a single individual as well.
